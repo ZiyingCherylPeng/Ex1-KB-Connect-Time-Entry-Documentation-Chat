@@ -1,0 +1,504 @@
+[
+  {
+    "pageNumber": 1,
+    "content": [
+      {
+        "type": "text",
+        "content": "Overview",
+        "boundingBox": [
+          {
+            "IsEmpty": false,
+            "X": 1.0028,
+            "Y": 1.3082
+          },
+          {
+            "IsEmpty": false,
+            "X": 2.0629,
+            "Y": 1.3129
+          },
+          {
+            "IsEmpty": false,
+            "X": 2.0629,
+            "Y": 1.523
+          },
+          {
+            "IsEmpty": false,
+            "X": 1.0028,
+            "Y": 1.523
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "content": "What is Time Entry?",
+        "boundingBox": [
+          {
+            "IsEmpty": false,
+            "X": 0.9885,
+            "Y": 1.7904
+          },
+          {
+            "IsEmpty": false,
+            "X": 2.7792,
+            "Y": 1.7904
+          },
+          {
+            "IsEmpty": false,
+            "X": 2.7744,
+            "Y": 2.01
+          },
+          {
+            "IsEmpty": false,
+            "X": 0.9837,
+            "Y": 1.9957
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "content": "The Cayenta Time Entry module (TE), also known as Remote Time Entry, is a separate Java",
+        "boundingBox": [
+          {
+            "IsEmpty": false,
+            "X": 0.9789,
+            "Y": 2.1437
+          },
+          {
+            "IsEmpty": false,
+            "X": 7.373,
+            "Y": 2.1437
+          },
+          {
+            "IsEmpty": false,
+            "X": 7.373,
+            "Y": 2.3203
+          },
+          {
+            "IsEmpty": false,
+            "X": 0.9789,
+            "Y": 2.3155
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "content": "based module, compatible with the Payroll (PA) and Human Resources (HR) modules. Time",
+        "boundingBox": [
+          {
+            "IsEmpty": false,
+            "X": 0.9885,
+            "Y": 2.3776
+          },
+          {
+            "IsEmpty": false,
+            "X": 7.4829,
+            "Y": 2.3776
+          },
+          {
+            "IsEmpty": false,
+            "X": 7.4829,
+            "Y": 2.5495
+          },
+          {
+            "IsEmpty": false,
+            "X": 0.9885,
+            "Y": 2.5543
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "content": "Entry is a front-end tool for individual employees to enter their own timesheets, get them",
+        "boundingBox": [
+          {
+            "IsEmpty": false,
+            "X": 0.9789,
+            "Y": 2.6115
+          },
+          {
+            "IsEmpty": false,
+            "X": 7.2871,
+            "Y": 2.6115
+          },
+          {
+            "IsEmpty": false,
+            "X": 7.2871,
+            "Y": 2.7834
+          },
+          {
+            "IsEmpty": false,
+            "X": 0.9789,
+            "Y": 2.7834
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "content": "approved using Multi-Level Approval, and uploaded into Payroll without having to enter the",
+        "boundingBox": [
+          {
+            "IsEmpty": false,
+            "X": 0.9837,
+            "Y": 2.8503
+          },
+          {
+            "IsEmpty": false,
+            "X": 7.4399,
+            "Y": 2.8503
+          },
+          {
+            "IsEmpty": false,
+            "X": 7.4399,
+            "Y": 3.0221
+          },
+          {
+            "IsEmpty": false,
+            "X": 0.9837,
+            "Y": 3.0269
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "content": "data more than once. This works under the security and business proves constraints that",
+        "boundingBox": [
+          {
+            "IsEmpty": false,
+            "X": 0.9885,
+            "Y": 3.0842
+          },
+          {
+            "IsEmpty": false,
+            "X": 7.3157,
+            "Y": 3.0842
+          },
+          {
+            "IsEmpty": false,
+            "X": 7.3157,
+            "Y": 3.2561
+          },
+          {
+            "IsEmpty": false,
+            "X": 0.9885,
+            "Y": 3.2513
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "content": "the company chooses to enforce. The major components of the subsystem are",
+        "boundingBox": [
+          {
+            "IsEmpty": false,
+            "X": 0.9837,
+            "Y": 3.3277
+          },
+          {
+            "IsEmpty": false,
+            "X": 6.5947,
+            "Y": 3.3277
+          },
+          {
+            "IsEmpty": false,
+            "X": 6.5947,
+            "Y": 3.49
+          },
+          {
+            "IsEmpty": false,
+            "X": 0.9837,
+            "Y": 3.4948
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "content": "configuration, maintenance, timesheet entry, timesheet approval, and payroll upload.",
+        "boundingBox": [
+          {
+            "IsEmpty": false,
+            "X": 0.9837,
+            "Y": 3.5616
+          },
+          {
+            "IsEmpty": false,
+            "X": 7.0913,
+            "Y": 3.5616
+          },
+          {
+            "IsEmpty": false,
+            "X": 7.0913,
+            "Y": 3.7335
+          },
+          {
+            "IsEmpty": false,
+            "X": 0.9837,
+            "Y": 3.7287
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "content": "Screen",
+        "boundingBox": [
+          {
+            "IsEmpty": false,
+            "X": 1.0601,
+            "Y": 3.9197
+          },
+          {
+            "IsEmpty": false,
+            "X": 1.5902,
+            "Y": 3.9197
+          },
+          {
+            "IsEmpty": false,
+            "X": 1.5902,
+            "Y": 4.0677
+          },
+          {
+            "IsEmpty": false,
+            "X": 1.0601,
+            "Y": 4.0629
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "content": "Location",
+        "boundingBox": [
+          {
+            "IsEmpty": false,
+            "X": 4.3121,
+            "Y": 3.9149
+          },
+          {
+            "IsEmpty": false,
+            "X": 4.952,
+            "Y": 3.9197
+          },
+          {
+            "IsEmpty": false,
+            "X": 4.952,
+            "Y": 4.0677
+          },
+          {
+            "IsEmpty": false,
+            "X": 4.3121,
+            "Y": 4.0677
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "content": "Earning codes maintenance",
+        "boundingBox": [
+          {
+            "IsEmpty": false,
+            "X": 1.0649,
+            "Y": 4.125
+          },
+          {
+            "IsEmpty": false,
+            "X": 3.0801,
+            "Y": 4.125
+          },
+          {
+            "IsEmpty": false,
+            "X": 3.0801,
+            "Y": 4.2873
+          },
+          {
+            "IsEmpty": false,
+            "X": 1.0649,
+            "Y": 4.2921
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "content": "Time entry/time entry setup/earning codes",
+        "boundingBox": [
+          {
+            "IsEmpty": false,
+            "X": 4.3121,
+            "Y": 4.1202
+          },
+          {
+            "IsEmpty": false,
+            "X": 7.3635,
+            "Y": 4.125
+          },
+          {
+            "IsEmpty": false,
+            "X": 7.3635,
+            "Y": 4.2969
+          },
+          {
+            "IsEmpty": false,
+            "X": 4.3121,
+            "Y": 4.2921
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "content": "maintenance",
+        "boundingBox": [
+          {
+            "IsEmpty": false,
+            "X": 4.3121,
+            "Y": 4.3303
+          },
+          {
+            "IsEmpty": false,
+            "X": 5.2719,
+            "Y": 4.3303
+          },
+          {
+            "IsEmpty": false,
+            "X": 5.2719,
+            "Y": 4.4926
+          },
+          {
+            "IsEmpty": false,
+            "X": 4.3121,
+            "Y": 4.4878
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "rows": [
+          {
+            "rowIndex": 0,
+            "columnIndex": 0,
+            "content": "Screen",
+            "boundingBox": [
+              {
+                "PageNumber": 1,
+                "BoundingPolygon": [
+                  {
+                    "IsEmpty": false,
+                    "X": 0.9984,
+                    "Y": 3.8848
+                  },
+                  {
+                    "IsEmpty": false,
+                    "X": 4.2463,
+                    "Y": 3.8848
+                  },
+                  {
+                    "IsEmpty": false,
+                    "X": 4.2463,
+                    "Y": 4.0991
+                  },
+                  {
+                    "IsEmpty": false,
+                    "X": 0.9984,
+                    "Y": 4.0991
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "rowIndex": 0,
+            "columnIndex": 1,
+            "content": "Location",
+            "boundingBox": [
+              {
+                "PageNumber": 1,
+                "BoundingPolygon": [
+                  {
+                    "IsEmpty": false,
+                    "X": 4.2463,
+                    "Y": 3.8848
+                  },
+                  {
+                    "IsEmpty": false,
+                    "X": 7.4807,
+                    "Y": 3.8848
+                  },
+                  {
+                    "IsEmpty": false,
+                    "X": 7.4807,
+                    "Y": 4.0991
+                  },
+                  {
+                    "IsEmpty": false,
+                    "X": 4.2463,
+                    "Y": 4.0991
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "rowIndex": 1,
+            "columnIndex": 0,
+            "content": "Earning codes maintenance",
+            "boundingBox": [
+              {
+                "PageNumber": 1,
+                "BoundingPolygon": [
+                  {
+                    "IsEmpty": false,
+                    "X": 0.9984,
+                    "Y": 4.0991
+                  },
+                  {
+                    "IsEmpty": false,
+                    "X": 4.2463,
+                    "Y": 4.0991
+                  },
+                  {
+                    "IsEmpty": false,
+                    "X": 4.2396,
+                    "Y": 4.5077
+                  },
+                  {
+                    "IsEmpty": false,
+                    "X": 0.9984,
+                    "Y": 4.5077
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "rowIndex": 1,
+            "columnIndex": 1,
+            "content": "Time entry/time entry setup/earning codes maintenance",
+            "boundingBox": [
+              {
+                "PageNumber": 1,
+                "BoundingPolygon": [
+                  {
+                    "IsEmpty": false,
+                    "X": 4.2463,
+                    "Y": 4.0991
+                  },
+                  {
+                    "IsEmpty": false,
+                    "X": 7.4807,
+                    "Y": 4.0991
+                  },
+                  {
+                    "IsEmpty": false,
+                    "X": 7.4874,
+                    "Y": 4.5077
+                  },
+                  {
+                    "IsEmpty": false,
+                    "X": 4.2396,
+                    "Y": 4.5077
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
